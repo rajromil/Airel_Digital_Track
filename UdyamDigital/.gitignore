@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+dist/
+build/
+coverage/
+
+.venv/
+__pycache__/
+*.pyc
+
+# Original hackathon materials
+source/
+
+# Local temporary files
+*.log
+.DS_Store
